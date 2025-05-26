@@ -66,4 +66,5 @@ function updatePaletteDisplay(colors) {
   });
 }
 
+
 // generatePalette();
